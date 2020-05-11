@@ -41651,10 +41651,17 @@
         "publisher": "SEGA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/60121f4d6385626d5103f746b48199a5d3cd5b0d3f29204f9f62c8863a23da97.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1982cbd0ce755ad54a43eb572f73b1c1eb2ab6d0387fac49ecb3147f027d6b52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e76c6a42644aada4f47fb13400a2a9b2f1655a55c6daf5525599b79fff9c60e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c595b5206e58d064436a12931fb156ea3e7ae461fe76db1a11a7c1d29e66ed92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fda61428760f8fa6db23aafc56d5f991e24d2e5356c3a4aeb7d1816dc058649.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5aba1c3e67d8e433263fb945b3b27a077151dfba23622417ecc6f611640cee5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77cea96711d842a57707200332efba4205ee5fd96202b71cc5a5f46f45196d0b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5667ef7477d8d0a34c9f8f417ef6a2f6389c2c804e6d0ffd77384b661a1d57c.jpg",
         "intro": null,
-        "description": "\u53ef\u5728\u300e\u521d\u97f3\u672a\u4f86 Project DIVA MEGA39's\u300f\u904a\u73a9\u300cWORLD'S END UMBRELLA\u300d\u3001\u300c\u604b\u30b9\u30eb\uff36\uff2f\uff23\uff20\uff2c\uff2f\uff29\uff24\u300d\u3001\u300c\u795e\u66f2\u300d\u3001\u300cYellow\u300d\u3001\u300c\u30cd\u30ac\u30dd\u30b8\uff0a\u30b3\u30f3\u30c6\u30a3\u30cb\u30e5\u30fc\u30ba\u300d\u4ee5\u53ca\u300cSING\uff06SMILE\u300d\u51716\u9996\u6a02\u66f2\u7684\u8ffd\u52a0\u6a02\u66f2\u5305\u3002",
+        "description": "\u53ef\u5728\u300e\u521d\u97f3\u672a\u4f86 Project DIVA MEGA39's\u300f\u904a\u73a9\u300c\u4e8c\u606f\u6b69\u884c\u300d\u3001\u300cPIANO*GIRL\u300d\u3001\u300c\u30b7\u30b9\u30c6\u30de\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30f4\u300d\u3001\u300cKnife\u300d\u3001\u300c\u30b3\u30b3\u30ed\u300d\u4ee5\u53ca\u300c\u5922\u55b0\u3044\u767d\u9ed2\u30d0\u30af\u300d\u51716\u9996\u6a02\u66f2\u7684\u8ffd\u52a0\u6a02\u66f2\u5305\u3002",
         "languages": null,
         "size": 4194304
     },
